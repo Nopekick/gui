@@ -3,7 +3,7 @@
 Requires Node.js to be installed
 
 ```
-git clone -clone url-
+git clone https://github.com/Nopekick/gui.git
 ```
 ```
 npm install
